@@ -88,8 +88,8 @@
 		BF7F5A2A20BE58CF0077A5BC /* CLGoogleMapExmaple */ = {
 			isa = PBXGroup;
 			children = (
-				BF7F5A5320BE5F7D0077A5BC /* CLGoogleMap */,
 				BF7F5A5020BE5F020077A5BC /* AppDelegate */,
+				BF7F5A5320BE5F7D0077A5BC /* CLGoogleMap */,
 				BF7F5A4120BE5EF10077A5BC /* Module */,
 				BF7F5A5120BE5F1C0077A5BC /* Resource */,
 			);
@@ -182,9 +182,9 @@
 		BF7F5A5420BE5F7D0077A5BC /* CLGoogleMapViewController */ = {
 			isa = PBXGroup;
 			children = (
-				BF7F5A5520BE5F7D0077A5BC /* ViewModels */,
-				BF7F5A5C20BE5F7D0077A5BC /* Controller */,
 				BF7F5A5F20BE5F7D0077A5BC /* CLGoogleMap.h */,
+				BF7F5A5C20BE5F7D0077A5BC /* Controller */,
+				BF7F5A5520BE5F7D0077A5BC /* ViewModels */,
 			);
 			path = CLGoogleMapViewController;
 			sourceTree = "<group>";
